@@ -21,6 +21,11 @@ To start the fake API:
 
 `$ json-server --watch db.json`
 
+
+To start the development server:
+
+`$ npm start`
+
 ## API
 
 Country list:
@@ -31,12 +36,4 @@ Get data for a country:
 
 `http://localhost:3000/country-data/<id>`
 
-## Instructions
 
-Please ensure the following is used:
-
-- TypeScript
-- React
-- Redux Toolkit
-
-If you have any questions, please feel free to contact me on teams, or send me an email at jpeters@libertyglobal.com.
